@@ -56,7 +56,7 @@ metadata:
   name: pesbuk
   namespace: production
 spec:
-  #type: LoadBalancer
+  ##type: LoadBalancer
   ports:
     - port: 80
       #nodePort: 30080
